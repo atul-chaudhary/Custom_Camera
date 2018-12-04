@@ -24,9 +24,6 @@ import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.GridView;
 import android.widget.ImageView;
-
-import com.bumptech.glide.Glide;
-import com.bumptech.glide.request.RequestOptions;
 import com.mikepenz.fastadapter.adapters.FastItemAdapter;
 
 import java.util.ArrayList;
